@@ -53,7 +53,7 @@ const HomePage = () => {
     fontSize: "50px",
   };
   return (
-    <Grid container spacing={1} sx={{ padding: 20 }}>
+    <Grid container spacing={1} sx={{ margin: 20 }}>
       <Grid item sm={4}>
         <Card sx={{ maxWidth: 250, height: 400, borderRadius: "20px" }}>
           <Typography
